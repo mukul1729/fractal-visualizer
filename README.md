@@ -1,1 +1,2 @@
 # fractal-visualizer
+![fractal](https://dsm01pap002files.storage.live.com/y4mDyoOy4FNwLTvpCuWFSJ2X9iNnWqDdZEDj0f6B8cuVpzWxGr6JklfUwuChJXoF8PhMkT4V7Bdsk1vRrBeyNy0zz6bHTHXuP1mz1juIFAizmTjQzWNNYagA2Vzh2FQH7-6hHHQuFT55wc_H3dc4yoaJoDyTwrq51BVHXmxFObPJxYURkiLWd6T__ojj_NWXNwl?width=819&height=831&cropmode=none)
